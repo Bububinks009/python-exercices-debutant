@@ -2,6 +2,7 @@
 #code #python #exercices #débutants
 
 Ce dépôt contient une collection de petits exercices Python que j'ai réalisés pour m'entraîner.
+La complexité des codes suit une progression croissante.
 
 ## Contenu
 
