@@ -17,10 +17,10 @@ Ce dépôt contient une collection de petits exercices Python que j'ai réalisé
 - Vérification de palindrome
 - Jeu de devinette
 
--Compter le nombre de voyelles dans une phrase.
--Supprimer les doublons d’une liste sans utiliser set().
--Trier une liste sans utiliser la fonction sort().
--Écrire un dictionnaire qui contient les notes de plusieurs étudiants, puis afficher la moyenne de chacun.
+- Compter le nombre de voyelles dans une phrase.
+- Supprimer les doublons d’une liste sans utiliser set().
+- Trier une liste sans utiliser la fonction sort().
+- Écrire un dictionnaire qui contient les notes de plusieurs étudiants, puis afficher la moyenne de chacun.
 
 
 ## Objectif
